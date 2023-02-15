@@ -1,0 +1,9 @@
+[book]
+authors = ["王雪"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "我与Rust的领域驱动实现之路"
+
+[preprocessor.plantuml]
+plantuml-cmd = "java -jar plantuml.jar -charset utf-8"
